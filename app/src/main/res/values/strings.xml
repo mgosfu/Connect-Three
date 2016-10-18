@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Connect Three Again</string>
     <string name="game_token">game token</string>
+    <string name="tied_game_message">Tied Game. Everybody Wins!</string>
 </resources>
